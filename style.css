@@ -1,0 +1,46 @@
+body {
+  margin-left: 1cm;
+  margin-right: 1cm;
+  background-color: #323232;
+  color: #ffffcc;
+  font-family: "Noto Sans JP";
+}
+
+.title > h1 {
+  font-size: 4em;
+  text-align: center;
+  color: #26c6da;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+ul {
+  font-size: 20px;
+  padding-left: 130px;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  padding-left: 2px;
+  padding-right: 2px;
+  color: #448aff;
+}
+
+a:hover {
+  color: #ffffcc;
+}
+.blue {
+  color: #448aff;
+}
+.red {
+  color: #ff3d00;
+}
+.orange {
+  color: #ff6f00;
+}
+.green {
+  color: #26c6da;
+}
+.yellow {
+  color: #fdd835;
+}
